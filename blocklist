@@ -1,0 +1,30 @@
+#==================================================================
+# Title: A30BL/blocklist/MSWIN10
+#
+# Pi-hole blocklist file  
+#
+# Date: 05 August 2020
+#
+# Latest version: https://raw.githubusercontent.com/A30BL/blocklist/master/blocklist
+# Project home page: https://github.com/A30BL/blocklist
+# Project releases: https://github.com/A30BL/blocklist/blob/master/blocklist
+#
+#==================================================================
+
+#-------------------------------------
+# Block Microsoft Windows 10 telemetry
+#-------------------------------------
+telemetry.microsoft.com
+telemetry.urs.microsoft.com
+watson.telemetry.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.microsoft.com
+us.vortex-win.data.microsoft.com
+us-v10.events.data.microsoft.com
+telemetry.remoteapp.windowsazure.com
+wns.notify.windows.com.akadns.net
+v10-win.vortex.data.microsoft.com.akadns.net
+urs.microsoft.com.nsatc.net
+vsgallery.com
+watson.live.com
+
