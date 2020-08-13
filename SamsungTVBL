@@ -2,6 +2,7 @@
 # Please help to collect domains!
 # It could be that the TV does not receive any more updates or other services no longer work. Please report such an incident.
 # https://gist.githubusercontent.com/eterps/9ddb13a118a21a7d9c12c6165e0bbff5/raw/0ba4b04802a4b478d7777fb7abe76c8eac0c5bfc/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole)
+# Date: 13.08.2020
 
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 samsungacr.com
